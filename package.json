@@ -1,5 +1,5 @@
 {
-  "name": "melhor-envio",
+  "name": "@raphael.cps/melhor-envio",
   "version": "1.6.3",
   "description": "Biblioteca não oficial para consumir api do melhor envio",
   "main": "./lib/melhorenvio.js",
